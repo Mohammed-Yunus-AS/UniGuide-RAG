@@ -1,0 +1,14 @@
+flowchart TD
+    A[Fictional demo PDFs / authorised sample PDFs] --> B[PDF Text Extraction - PyMuPDF]
+    B --> C[Cleaning and Page-Aware Chunking]
+    C --> D[Embedding Generation]
+    D --> E[(Local Knowledge Base - JSON)]
+    Q[User Question] --> F[Query Embedding]
+    E --> G[Similarity Retrieval]
+    F --> G
+    G --> H{Relevant Evidence Found?}
+    H -- No --> I[Abstain / Ask for Better Source]
+    H -- Yes --> J[Evidence + Question Prompt]
+    J --> K[Gemini LLM]
+    K --> L[Grounded Answer with Source Tags]
+    L --> M[User Verifies Document and Page]

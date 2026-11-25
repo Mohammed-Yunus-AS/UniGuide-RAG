@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "chunks": [
+    {
+      "id": "52d4496bebc1e686",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 1\nNORTHSTAR DEMO UNIVERSITY\nAcademic Calendar - 2026-2027\nSynthetic demonstration calendar | Version DEMO-1.0 | Published 15 August 2026\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n1. Autumn Semester\nThe following dates are invented for the UniGuide-RAG demo corpus. They are not dates for any real academic\ninstitution.\nAutumn semester dates\nMilestone\nFictional demo date\nSemester begins\n1 September 2026\nAdd / drop period closes\n10 September 2026\nTeaching period ends\n4 December 2026\nSemester break\nThe fictional autumn break is scheduled from 21 December 2026 to 2 January 2027. The calendar does not\nspecify office opening hours during this period.",
+      "source": "northstar_academic_calendar_demo.pdf",
+      "page": 1,
+      "chunk": 1
+    },
+    {
+      "id": "f451721828d1e5de",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 2\nNORTHSTAR DEMO UNIVERSITY\nAcademic Calendar - Assessment and Spring\nSynthetic demonstration calendar | Page 2\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n2. Assessment Period\nThe autumn assessment period is scheduled from 7 December 2026 to 18 December 2026. Individual course\nexamination times are not included in this calendar.\n3. Spring Semester\nMilestone\nFictional demo date\nSpring semester begins\n5 January 2027\nSpring add / drop closes\n14 January 2027\nSpring teaching period ends\n30 April 2027\nUnlisted events\nThe calendar provides the autumn and spring semester milestones for this synthetic example. Other events may\nbe published separately in future sample notices.",
+      "source": "northstar_academic_calendar_demo.pdf",
+      "page": 2,
+      "chunk": 1
+    },
+    {
+      "id": "0203a0ac7bcd895f",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 1\nNORTHSTAR DEMO UNIVERSITY\nAssessment and Examination Guide\nSynthetic demonstration guide | Version DEMO-1.0 | Issued 15 August 2026\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n1. Assessment Results and Review\nThe rules in this document are fictional test content. They must never be represented as official examination\nregulations.\nRequesting a review of an assessment mark\nA student who believes that an assessment mark contains a recording or calculation error may submit a review\nrequest within five working days after the mark is released. The request must identify the course, assessment\ncomponent and specific issue. A review checks the recorded assessment; it does not guarantee a mark change.\nMinimum passing score\nFor the synthetic dataset, the minimum passing score for a course is 50 out of 100. This value is included only to\ntest retrieval of numeric facts.\nReview outcome\nThe sample guide states that the review outcome is communicated through the Student Portal. It does not specify\na guaranteed completion time",
+      "source": "northstar_assessment_exam_guide_demo.pdf",
+      "page": 1,
+      "chunk": 1
+    },
+    {
+      "id": "6fece9b1cabf0409",
+      "text": "rieval of numeric facts.\nReview outcome\nThe sample guide states that the review outcome is communicated through the Student Portal. It does not specify\na guaranteed completion time or an appeal route.",
+      "source": "northstar_assessment_exam_guide_demo.pdf",
+      "page": 1,
+      "chunk": 2
+    },
+    {
+      "id": "f578d6ddbe358a34",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 2\nNORTHSTAR DEMO UNIVERSITY\nAssessment and Examination Guide - Registration\nSynthetic demonstration guide | Page 2\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n2. Examination Registration and Conduct\nExamination registration deadline\nFor the fictional assessment cycle, students must complete examination registration at least 14 calendar days\nbefore the beginning of the examination period. The Student Portal displays the applicable registration window for\neach assessment period.\nPermitted materials\nThe relevant assessment instructions identify permitted materials for each examination. This generic\ndemonstration guide does not provide a complete list of permitted or prohibited items.\nAbsence and special circumstances\nThis sample guide does not define medical absence procedures, supplementary examination eligibility or fee\nexemptions. The assistant must not infer those procedures from general knowledge.\nDocument status\nSynthetic teaching material only. No actual university examination process is described.",
+      "source": "northstar_assessment_exam_guide_demo.pdf",
+      "page": 2,
+      "chunk": 1
+    },
+    {
+      "id": "b7f6be34908adeda",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 1\nNORTHSTAR DEMO UNIVERSITY\nLibrary and IT Services Guide\nSynthetic demonstration services guide | Version DEMO-1.0\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n1. Library Services\nAll information in this guide is fictional and exists only to provide sample questions for the document assistant.\nOpening hours\nDay\nFictional demo opening hours\nMonday-Friday\n8:00 a.m. - 8:00 p.m.\nSaturday\n9:00 a.m. - 4:00 p.m.\nSunday\nClosed\nBorrowing allowance\nA demo student may borrow up to three books at one time. The standard loan period is 14 calendar days. One\nrenewal is permitted when no other reader has reserved the item.\nReturns\nBooks should be returned to the library service counter or the designated return slot. This guide does not specify a\nlate-return fine.",
+      "source": "northstar_library_it_services_demo.pdf",
+      "page": 1,
+      "chunk": 1
+    },
+    {
+      "id": "13d1915705b29402",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 2\nNORTHSTAR DEMO UNIVERSITY\nLibrary and IT Services Guide - IT Helpdesk\nSynthetic demonstration services guide | Page 2\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n2. Campus IT Helpdesk\nPassword reset request\nA student who cannot access the fictional Campus Portal should submit a password-reset request through the\nCampus IT Helpdesk portal. The sample workflow asks the user to provide the demo username and a short\ndescription of the access issue. Never include an actual password in a support request.\nService availability\nFor this synthetic guide, the IT Helpdesk accepts portal requests throughout the day. The guide does not define a\nguaranteed response time or emergency service level.\nContact details\nThe sample document does not provide a real phone number or monitored email address. Do not invent contact\ninformation when answering questions.\nDocument status\nThis is a fictional document created to test PDF ingestion, passage retrieval, citations and cautious answer\ngeneration.",
+      "source": "northstar_library_it_services_demo.pdf",
+      "page": 2,
+      "chunk": 1
+    },
+    {
+      "id": "21a3f20c56d764f6",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 1\nNORTHSTAR DEMO UNIVERSITY\nStudent Handbook - 2026-2027\nSynthetic demonstration handbook | Version DEMO-1.0 | Issued 15 August 2026\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n1. Academic Participation\nThe fictional Northstar Demo University uses the following sample rules to test document retrieval. These\nstatements are invented for this prototype and do not describe any real institution.\nAttendance requirement\nFor this demonstration dataset, students are expected to maintain at least 80% attendance in each registered\ncourse. The synthetic policy does not define exceptions for medical or other special circumstances; the assistant\nshould not invent such exceptions.\nCourse add or drop period\nStudents may submit course add or drop requests during the first 10 calendar days of a semester. The request\nmust be completed through the fictional Student Portal before the published cut-off. Requests submitted after the\ncut-off are marked as late and require review by the Academic Registry.\nStudent identification\nA demo",
+      "source": "northstar_student_handbook_demo.pdf",
+      "page": 1,
+      "chunk": 1
+    },
+    {
+      "id": "b3fff79e90f73bc4",
+      "text": "onal Student Portal before the published cut-off. Requests submitted after the\ncut-off are marked as late and require review by the Academic Registry.\nStudent identification\nA demo student identifier is issued during registration. The identifier is used only as an example in this synthetic\ndocument. Do not create or upload actual student identifiers for testing.",
+      "source": "northstar_student_handbook_demo.pdf",
+      "page": 1,
+      "chunk": 2
+    },
+    {
+      "id": "8ebbfa572765bc7d",
+      "text": "FICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\nPage 2\nNORTHSTAR DEMO UNIVERSITY\nStudent Handbook - Student Support\nSynthetic demonstration handbook | Page 2\nFICTIONAL DEMO MATERIAL - NOT A REAL UNIVERSITY POLICY\n2. Academic Advising and Student Support\nThe fictional Student Advising Centre provides guidance on course selection, academic planning and referrals to\nstudent support services. Students may request an appointment through the sample Student Portal.\nAdvising contact route\nFor this demo only, the sample contact route is advising@northstar-demo.example. This address is fictional and\nis not monitored.\nInformation not included in this handbook\nThis page provides a short overview of the Student Advising Centre and the synthetic document status. It does not\ndescribe accommodation or residential services.\nDocument status\nThis synthetic handbook is provided solely for classroom demonstration of PDF extraction, semantic retrieval,\nsource citation and evidence-based question answering.",
+      "source": "northstar_student_handbook_demo.pdf",
+      "page": 2,
+      "chunk": 1
+    }
+  ]
+}

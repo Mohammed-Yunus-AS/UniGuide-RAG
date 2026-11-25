@@ -1,0 +1,15 @@
+question,expected_source,expected_page,reference_answer,reviewer_correctness
+"What is the minimum attendance requirement in the Northstar demo handbook?",northstar_student_handbook_demo.pdf,1,"The fictional handbook sets the minimum attendance requirement at 80%.",
+"Within how many calendar days must a student complete add or drop requests?",northstar_student_handbook_demo.pdf,1,"Add or drop requests must be completed within the first 10 calendar days of the semester.",
+"Which office handles academic advising in the demo handbook?",northstar_student_handbook_demo.pdf,2,"The Student Advising Centre handles academic advising.",
+"How many working days are available to request an assessment-mark review?",northstar_assessment_exam_guide_demo.pdf,1,"A review request must be submitted within five working days after marks are released.",
+"What is the minimum passing score for a course in the demo assessment guide?",northstar_assessment_exam_guide_demo.pdf,1,"The fictional guide specifies a minimum passing score of 50 out of 100.",
+"How many days before the examination period should exam registration be completed?",northstar_assessment_exam_guide_demo.pdf,2,"Registration must be completed at least 14 calendar days before the examination period begins.",
+"When does the Northstar demo autumn semester begin?",northstar_academic_calendar_demo.pdf,1,"The fictional autumn semester begins on 1 September 2026.",
+"What is the last date for add or drop in the autumn semester?",northstar_academic_calendar_demo.pdf,1,"The add or drop period closes on 10 September 2026.",
+"When is the autumn assessment period scheduled?",northstar_academic_calendar_demo.pdf,2,"The autumn assessment period is scheduled from 7 December to 18 December 2026.",
+"How many books may a student borrow at one time?",northstar_library_it_services_demo.pdf,1,"A student may borrow up to three books at one time.",
+"What are the library's Saturday opening hours?",northstar_library_it_services_demo.pdf,1,"The library is open from 9:00 a.m. to 4:00 p.m. on Saturdays.",
+"How can a student request a password reset?",northstar_library_it_services_demo.pdf,2,"The student should submit a password-reset request through the Campus IT Helpdesk portal.",
+"What is the hostel fee at Northstar Demo University?",NO_ANSWER,,"The demo corpus contains no hostel-fee information; the assistant should abstain.",
+"On what date is the summer graduation ceremony scheduled?",NO_ANSWER,,"The demo corpus contains no summer graduation date; the assistant should abstain."
